@@ -2,18 +2,18 @@ class HelloWorld
 { 
     // Your program begins with a call to main(). 
     // Prints "Hello, World" to the terminal window. 
-    public static void main(Stri args[]) 
+    public static void main(String args[]) 
     { 
         int number = args[0];
-        if(args[0]==0){
-        	System.out.println("zero");
+        if(number==0){
+        	System.out.println("Zero");
         } 
-        else if (args[0]>0) {
+        else if (number>0) {
 
-        	System.out.println("positive");
+        	System.out.println("Positive");
         }
         else{
-        	System.out.println("negative");
+        	System.out.println("Negative");
         }
     } 
 } 
