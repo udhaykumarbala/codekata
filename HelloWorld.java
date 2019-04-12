@@ -4,16 +4,9 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window. 
     public static void main(String args[]) 
     { 
-        int number = args[0];
-        if(number==0){
-        	System.out.println("Zero");
-        } 
-        else if (number>0) {
-
-        	System.out.println("Positive");
-        }
-        else{
-        	System.out.println("Negative");
+        int n = args[0];
+        for(i=0;i<n;i++){
+        	System.out.println("Hello");
         }
     } 
 } 
