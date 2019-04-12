@@ -4,7 +4,7 @@ class Num
     // Prints "Hello, World" to the terminal window. 
     public static void main(String args[]) 
     { 
-        int n = args[0];
+        int n = Integer.parseInt(args[0]);
         for(i=0;i<n;i++){
         	System.out.println("Hello");
         }
