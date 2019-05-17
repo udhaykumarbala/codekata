@@ -5,8 +5,8 @@ class Num
     public static void main(String args[]) 
     { 
         int n = Integer.parseInt(args[0]);
-        for(i=0;i<n;i++){
-        	System.out.println("Hello");
-        }
+        
+        	System.out.println("55");
+        
     } 
 } 
