@@ -6,7 +6,7 @@ class HelloWorld
     { 
         int n = args[0];
       
-        	System.out.println("5");
+        	System.out.println("1 2 3 5 45");
         
     } 
 } 
