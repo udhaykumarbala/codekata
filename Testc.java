@@ -1,4 +1,4 @@
-public class Testo{
+public class Testc{
 
     public static void main(String args[]) 
     { 
