@@ -1,5 +1,5 @@
 
-public class Testhai{
+public class Testhaia{
 
     public static void main(String args[]) 
     { 
