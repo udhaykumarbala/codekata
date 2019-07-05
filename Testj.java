@@ -1,5 +1,5 @@
 
-public class Testi{
+public class Testj{
 
     public static void main(String args[]) 
     { 
